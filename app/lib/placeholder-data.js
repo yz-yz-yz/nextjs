@@ -186,3 +186,5 @@ module.exports = {
   invoices,
   revenue,
 };
+
+//每个对象代表一个表
